@@ -44,4 +44,5 @@ MyFile.py – Streamlit application
 Car_Price_Prediction.ipynb – Machine Learning implementation
 Car details.csv – Dataset
 model.pkl – Trained Linear Regression model
+Car_Price_Prediction_Project_Report.pdf
 
