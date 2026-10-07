@@ -4,6 +4,7 @@ Car Price Prediction Using Machine Learning
 This project predicts the selling price of used cars based on various car features using Machine Learning.
 
 🛠️ Technologies Used
+
 Python
 Pandas
 NumPy
@@ -11,7 +12,9 @@ Scikit-learn
 Linear Regression
 Streamlit
 Jupyter Notebook
+
 🔄 Project Workflow
+
 Load the car dataset
 Remove unnecessary columns
 Handle missing values
@@ -25,6 +28,7 @@ Train a Linear Regression model
 Generate predictions
 Save the trained model using Pickle
 Use the model in a Streamlit application
+
 💻 Application
 
 The Streamlit application allows users to enter car details and receive an estimated selling price.
@@ -34,6 +38,7 @@ The Streamlit application allows users to enter car details and receive an estim
 ▶️ Watch the Project Demo Video: https://drive.google.com/file/d/1rOVjiMOCu4emSEVSSunBYH0d1LKkrXE5/view?usp=sharing
 
 📂 Project Files
+
 MyFile.py – Streamlit application
 Car_Price_Prediction.ipynb – Machine Learning implementation
 Car details.csv – Dataset
